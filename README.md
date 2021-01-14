@@ -1,11 +1,11 @@
 # DungeonDelverCTF
 A beginner-friendly hackme puzzle with a light fantasy theme, where you will brave the depths of the Vault of the Skeleton King, in order to defeat the Skeleton King himself and save the town!
 
-[Setup]
+## Setup
 
 In order to complete this puzzle, you will need a working VirtualBox (or similar) installation and an "attack" machine with basic network recon tools (we recommend Kali Linux).  Once you have imported the .ova file into VirtualBox, set the network adapter for the VM to "Host-only Adapter" in the settings.  Happy hacking!
 
-[Introduction]
+## Introduction
 
 You have been on the road for about 3 days now.  You're far from civilization, the closest of which is the town of Hilldale, where you and three other adventurers met in a tavern and accepted the quest to put an end to the attacks on the outlying farms by mobs of goblins, skeletons, and other monstrous creatures.  Word has it that the attacks originate from the remote tomb of a long-dead king Xemkaz, now known as the Skeleton King, who seeks to take back his former lands even in death.  
 
