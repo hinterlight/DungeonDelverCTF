@@ -16,3 +16,7 @@ In order to complete this puzzle, you will need a working VirtualBox (or similar
 You have been on the road for about 3 days now.  You're far from civilization, the closest of which is the town of Hilldale, where you and three other adventurers met in a tavern and accepted the quest to put an end to the attacks on the outlying farms by mobs of goblins, skeletons, and other monstrous creatures.  Word has it that the attacks originate from the remote tomb of a long-dead king Xemkaz, now known as the Skeleton King, who seeks to take back his former lands even in death.  
 
 However, progress has been slow of late, as you and your companions have searched and scoured the forested hills at the base of the Greyshard Mountains for the entrance to the Vault of the Skeleton King.  If only you had a tool that would help you search for the entrance… a map perhaps, possibly one of the n region?
+
+## Who are we?
+
+We are... @hinterlight, @Rlumumba06, and @reilyk98!
