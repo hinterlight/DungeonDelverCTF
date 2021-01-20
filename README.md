@@ -1,6 +1,6 @@
 # DungeonDelverCTF
-A beginner-friendly hackme puzzle with a light fantasy theme, where you will brave the depths of the Vault of the Skeleton King, in order to defeat the Skeleton King himself and save the town!
-
+ A beginner-friendly Linux-based hackme puzzle with a light fantasy theme, where you will use your knowledge of web exploitation and Linux to enter the Vault of the Skeleton King, defeat the Skeleton King himself, and save the town!
+ 
 ## Setup
 
 In order to complete this puzzle, you will need a working VirtualBox (or similar) installation and an "attack" machine with basic network recon tools (we recommend Kali Linux).  Once you have imported the .ova file into VirtualBox, set the network adapter for the VM to "Host-only Adapter" in the settings.  Happy hacking!
