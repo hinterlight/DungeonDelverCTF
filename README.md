@@ -19,4 +19,4 @@ However, progress has been slow of late, as you and your companions have searche
 
 ## Who are we?
 
-We are... @hinterlight, @Rlumumba06, and @reilyk98!
+We are... [hinterlight](https://github.com/hinterlight), [Rlumumba06](https://github.com/rlumumba06), and [reilyk98](https://github.com/reilyk98)!
