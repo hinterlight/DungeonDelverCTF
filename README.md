@@ -5,7 +5,7 @@
 A beginner-friendly Linux-based hackme puzzle with a light fantasy theme, where you will use your knowledge of web exploitation and Linux to enter the Vault of the Skeleton King, capture some flags, get root, defeat the Skeleton King himself, and save the town!
 
 ## Download
-You can download v. 1.0 of DungeonDelverCTF [here](https://drive.google.com/file/d/1GDi1an1qXI_NiRwxuuKd9yXKjntR46Ya/view)!
+You can download v. 1.1 of DungeonDelverCTF [here](https://drive.google.com/file/d/17VGfTrA4YFOpHLq9IOvUhli1O8sHylF1/view?usp=sharing)!
 
 ## Setup
 
