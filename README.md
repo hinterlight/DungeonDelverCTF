@@ -1,6 +1,5 @@
 ## Welcome to...
 ![DDCTFLogo](https://user-images.githubusercontent.com/68036270/105498269-95e2b300-5c85-11eb-9767-31b2c5d5d0b3.png)
-
 ## What is DungeonDelverCTF?
 A beginner-friendly Linux-based hackme puzzle with a light fantasy theme, where you will use your knowledge of web exploitation and Linux to enter the Vault of the Skeleton King, capture some flags, get root, defeat the Skeleton King himself, and save the town!
 
